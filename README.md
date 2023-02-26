@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Pant</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400"
-    src="https://user-images.githubusercontent.com/125440375/219616451-d945dd2e-356d-44bd-a3e4-690a7210b449.png">
+    src="[https://user-images.githubusercontent.com/125440375/219616451-d945dd2e-356d-44bd-a3e4-690a7210b449.png](https://groupda.com/wp-content/uploads/2020/12/d-1024x576.jpg)">
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=samarth12pant&label=Profile%20views&color=0e75b6&style=flat"
         alt="samarth12pant" /> </p>
